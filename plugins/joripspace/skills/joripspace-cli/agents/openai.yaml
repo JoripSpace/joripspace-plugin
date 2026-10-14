@@ -1,0 +1,4 @@
+interface:
+  display_name: 'JoripSpace CLI'
+  short_description: 'Operate JoripSpace projects with the CLI on demand.'
+  default_prompt: 'Use $joripspace-cli to connect to my JoripSpace project and show its status.'

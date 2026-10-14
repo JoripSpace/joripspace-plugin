@@ -1,0 +1,12 @@
+{
+  "name": "joripspace",
+  "version": "0.1.2",
+  "description": "Build, inspect, and operate JoripSpace projects with the CLI, without a global CLI installation.",
+  "author": {
+    "name": "Cosmosfarm Software",
+    "email": "support@cosmosfarm.com",
+    "url": "https://www.cosmosfarm.com/"
+  },
+  "homepage": "https://joripspace.com/docs/",
+  "repository": "https://github.com/JoripSpace/joripspace-plugin"
+}

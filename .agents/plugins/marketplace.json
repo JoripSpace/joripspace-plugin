@@ -1,0 +1,19 @@
+{
+  "name": "joripspace",
+  "interface": {
+    "displayName": "JoripSpace"
+  },
+  "plugins": [
+    {
+      "name": "joripspace",
+      "source": {
+        "source": "local",
+        "path": "./plugins/joripspace"
+      },
+      "policy": {
+        "installation": "AVAILABLE"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "joripspace",
+  "description": "JoripSpace plugins for local development and remote project operations.",
+  "owner": {
+    "name": "Cosmosfarm Software"
+  },
+  "plugins": [
+    {
+      "name": "joripspace",
+      "source": "./plugins/joripspace",
+      "description": "JoripSpace CLI workflows without a global CLI installation."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "joripspace",
+  "version": "0.1.2",
+  "description": "Build, inspect, and operate JoripSpace projects with the CLI, without a global CLI installation.",
+  "author": {
+    "name": "Cosmosfarm Software",
+    "email": "support@cosmosfarm.com",
+    "url": "https://www.cosmosfarm.com/"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "JoripSpace",
+    "shortDescription": "Build and operate JoripSpace projects.",
+    "longDescription": "Connect to JoripSpace projects, inspect data and storage, edit local source, deploy code, and manage runtime resources using the CLI on demand.",
+    "developerName": "Cosmosfarm Software",
+    "category": "Productivity",
+    "capabilities": ["Read", "Write"],
+    "websiteURL": "https://joripspace.com/",
+    "privacyPolicyURL": "https://joripspace.com/privacy/",
+    "termsOfServiceURL": "https://joripspace.com/terms/",
+    "defaultPrompt": [
+      "Connect to my JoripSpace project and show its status.",
+      "Inspect my JoripSpace database schema.",
+      "Show recent deployments and runtime errors."
+    ],
+    "brandColor": "#111827",
+    "composerIcon": "./assets/icon.png",
+    "logo": "./assets/logo.png",
+    "logoDark": "./assets/logo-dark.png"
+  }
+}
